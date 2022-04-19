@@ -11,7 +11,7 @@ var cryptrisSettings = cryptrisSettings || {};
  *  Cryptris main url used for sharing links
  */
  
-cryptrisSettings.appUrl = "http://inriamecsci.github.io/cryptris"
+cryptrisSettings.appUrl = "https://mgoessen.github.io/cryptris"
 
 /**
  *  Google analytics ID
